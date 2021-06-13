@@ -1,3 +1,6 @@
 hello fangshicai 
 hello
-hello fangshicai 8888
+<<<<<<< HEAD
+hello fangshicai 888
+hello fangshicai  hot
+
